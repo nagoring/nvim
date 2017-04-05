@@ -1,0 +1,32 @@
+[[plugins]]
+repo = 'mustardamus/jqapi'
+[[plugins]]
+repo = 'tokuhirom/jsref'
+[[plugins]]
+repo = 'cespare/vim-toml'
+
+
+[[plugins]]
+repo = 'neomake/neomake'
+on_path = '.*'
+hokk_add = '''
+source ~/.config/nvim/plugins/neomake.rc.vim
+'''
+
+[[plugins]]
+repo = 'vim-jp/vimdoc-ja'
+
+[[plugins]]
+repo = 'petdance/vim-perl'
+
+[[plugins]]
+repo = 'hotchpotch/perldoc-vim'
+
+[[plugins]]
+repo = 'osyo-manga/vim-watchdogs'
+
+[[plugins]]
+repo = 'joonty/vdebug'
+
+[[plugins]]
+repo = 'alexgenco/neovim-ruby'
